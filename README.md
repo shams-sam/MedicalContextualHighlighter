@@ -14,3 +14,18 @@ $.ajax({
   }
 });
 ```
+
+## Screenshots
+
+### Start Screen
+
+![Start Screen](1.png)
+
+
+### Medical Highlighter 
+
+![Highlighter](2.png)
+
+### Visualizer
+
+![Visualizer](3.png)
