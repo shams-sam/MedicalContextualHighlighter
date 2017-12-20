@@ -1,9 +1,15 @@
 # MedicalContextualHighlighter
 Highlight Medical Concepts Using LSTM-Ngram Network
 
+**[Reference](https://medium.com/agara-labs/highlighting-keywords-in-emails-using-deep-learning-5e2c0cba39ae) from Medium Post by Agara Labs.** 
+```
+Modifications Added:
+- Using LSTM instead of Vanilla MLP.
+- Ensemble of unigram and bigram models. Similarly higher order n-grams can also be used
+```
+
 (Some of the Code is Proprietary and Is not Available in the Repository.
 Feel free to contact us for reference about the topics.)
-
 
 
 ## Files
