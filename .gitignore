@@ -1,3 +1,6 @@
 .ipynb_checkpoints/*
 __pycache__/*
 *_model_*
+*to_icd*
+data.csv
+*.pyc
