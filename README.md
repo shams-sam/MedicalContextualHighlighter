@@ -34,16 +34,16 @@ Feel free to contact us for reference about the topics.)
 
 ### Start Screen
 
-![Start Screen](1.png)
+![Start Screen](assets/1.png)
 
 
 ### Medical Highlighter 
 
-![Highlighter](2.png)
+![Highlighter](assets/2.png)
 
 ### Visualizer
 
-![Visualizer](3.png)
+![Visualizer](assets/3.png)
 
 ## API Call Example
 ```javascript
