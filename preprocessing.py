@@ -3,11 +3,23 @@ from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
 
 
-def text_preprocessing(
+def text_preprocessing( SCID  Severe Combined ImmunoDeficiency
+
+    ADA   Adenosine DeAminase
+
+    PNP   Purine Nucleoside Phosphorylase
+
+    LFA-1 Lymphocyte Function Antigen-1
     text,
     remove_stopwords=False,
-    stem_words=False,
-    stopwords_addition=[],
+    stem_words=True,
+    stopwords_addition=[ SCID  Severe Combined ImmunoDeficiency
+
+    ADA   Adenosine DeAminase
+
+    PNP   Purine Nucleoside Phosphorylase
+
+    LFA-1 Lymphocyte Function Antigen-1],
     stopwords_exclude=[],
     HYPHEN_HANDLE=1
 ):
